@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ToDoApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="add_todo_headline">Add todo</string>
+    <string name="choose_todo_name_caption">Name</string>
+    <string name="todo_priority_caption">Priority</string>
+    <string name="sort_todos_caption">Sort by:</string>
+</resources>
